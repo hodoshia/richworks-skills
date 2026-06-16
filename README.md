@@ -46,7 +46,28 @@ Building brand presence, content systems, and social media strategies for client
 Requires [Claude Code](https://claude.ai/code).
 
 ```bash
-claude install github.com/hodoshia/richworks-skills
+# 1. Add the marketplace
+claude plugin marketplace add hodoshia/richworks-skills
+
+# 2. Install all skills
+claude plugin install profile-optimization@richworks-skills
+claude plugin install profile-growth@richworks-skills
+claude plugin install tone-of-voice@richworks-skills
+claude plugin install reels-video@richworks-skills
+claude plugin install sales-posts@richworks-skills
+claude plugin install landing-page-copy@richworks-skills
+claude plugin install headlines@richworks-skills
+claude plugin install seasonal-campaigns@richworks-skills
+claude plugin install content-planning@richworks-skills
+claude plugin install content-principles@richworks-skills
+claude plugin install ai-automation@richworks-skills
+claude plugin install linkedin-templates@richworks-skills
+claude plugin install viral-script-formula@richworks-skills
+claude plugin install hashtag-strategy@richworks-skills
+claude plugin install reel-diagnosis@richworks-skills
+claude plugin install foundation-layer@richworks-skills
+claude plugin install content-flywheel@richworks-skills
+claude plugin install creative-techniques@richworks-skills
 ```
 
 All 18 skills install globally. Each activates automatically based on conversation context - you never have to pick which one to use.
