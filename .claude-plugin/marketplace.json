@@ -1,0 +1,98 @@
+{
+  "name": "richworks-skills",
+  "owner": {
+    "name": "Adam Hodoši"
+  },
+  "plugins": [
+    {
+      "name": "profile-optimization",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "Instagram profile setup - bio formula, highlights structure, handle rules, name field keywords."
+    },
+    {
+      "name": "profile-growth",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "Follower growth funnel - diagnosing traffic vs. conversion problems, the conversion formula, 9 traffic tips."
+    },
+    {
+      "name": "tone-of-voice",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "Brand voice exercises - 3 brand values, personality from famous-person references, brand codes."
+    },
+    {
+      "name": "reels-video",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "Short-form video strategy - 7 viral points, reversed-payoff structure, Hero/Hub/Hygiene by production effort."
+    },
+    {
+      "name": "sales-posts",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "Selling on social without killing reach - product video, campaign, live/webinar, 8 copy tips."
+    },
+    {
+      "name": "landing-page-copy",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "Landing page copywriting - USP, proof, objections, simplicity test, contact collection."
+    },
+    {
+      "name": "headlines",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "100 fill-in-the-blank headline and hook templates in Slovak across 4 categories."
+    },
+    {
+      "name": "seasonal-campaigns",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "Black Friday and Q4 strategy - warming contacts, remarketing, FOMO, timing tactics."
+    },
+    {
+      "name": "content-planning",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "Full content workflow - idea bank, monthly calendar, captions, posting time, 15-min interaction routine."
+    },
+    {
+      "name": "content-principles",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "Content strategy fundamentals - audience-first, Hero/Hub/Hygiene split, one goal per post, recycling."
+    },
+    {
+      "name": "ai-automation",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "AI and automation for marketing - ChatGPT prompt structure, custom GPT, Make workflows, Opus.clip."
+    },
+    {
+      "name": "linkedin-templates",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "5 proven LinkedIn post structures for thought leadership and ghostwriting with AI fill prompts."
+    },
+    {
+      "name": "viral-script-formula",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "Magic Pill viral video psychology - Universal Trigger, Guilt Removal, Hidden Gem, 3 concept generator."
+    },
+    {
+      "name": "hashtag-strategy",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "2026 Instagram hashtag rules - 5-tag limit, banned hashtag list, shadowban prevention."
+    },
+    {
+      "name": "reel-diagnosis",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "7-step AI post-mortem for flopped videos - Insights analysis, diagnosis prompt, rewrite loop."
+    },
+    {
+      "name": "foundation-layer",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "Teaching AI your brand - 6 context files for voice, audience, positioning, and ICP."
+    },
+    {
+      "name": "content-flywheel",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "Automated content repurposing - one video becomes blog, LinkedIn, social, and newsletter automatically."
+    },
+    {
+      "name": "creative-techniques",
+      "source": { "source": "github", "repo": "hodoshia/richworks-skills" },
+      "description": "Advertising creative frameworks - Intentional Defect, Crisis Pivot, 4C strategy, storytelling, naming."
+    }
+  ]
+}
