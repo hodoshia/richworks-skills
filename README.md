@@ -8,7 +8,7 @@ These are not generic tips scraped from the internet. They are the actual framew
 
 ## Who built this
 
-**[Your Name]** - Social Media Lead at RichWorks, AI and marketing specialist.
+**Adam Hodoši** - Social Media Lead at RichWorks, AI and marketing specialist.
 
 Building brand presence, content systems, and social media strategies for clients across various industries. Early adopter of AI-driven marketing workflows - these skills reflect what actually moves the needle: follower growth, content systems that scale, video that performs, copy that converts.
 
