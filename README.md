@@ -1,5 +1,7 @@
 # richworks-skills
 
+**🇬🇧 English** | [🇸🇰 Slovenčina](README.sk.md)
+
 A library of 18 marketing skills built from real practice at **RichWorks** - a results-driven
 marketing agency focused on social media, content strategy, and AI-powered growth.
 
