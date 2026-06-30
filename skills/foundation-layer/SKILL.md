@@ -5,7 +5,7 @@ description: >-
   context about your brand voice, audience, and positioning so every output is
   personal and on-brand instead of generic. Use when the user wants AI to write in
   their tone, wants AI to know their customers, is getting generic AI output, or
-  wants to set up persistent brand context for Claude. Triggers on: AI output too
+  wants to set up persistent brand context for their AI assistant. Triggers on: AI output too
   generic, make AI sound like me, AI context file, brand context for AI, train AI
   on my tone of voice, foundation layer, AI knows my business, AI knows my
   customers, personal brand AI setup, write in my style, AI write like me.
@@ -14,7 +14,7 @@ description: >-
 # Foundation Layer - Teaching AI Your Brand
 
 Without context, AI gives you the same output as everyone else. The foundation layer
-is a folder of text files you build once, point Claude to, and it makes every output
+is a folder of text files you build once, point your AI assistant to, and it makes every output
 yours - your voice, your audience, your positioning. The more complete it is, the
 better the output. The more often you use AI without it, the more you waste time
 editing generic results.
@@ -71,8 +71,8 @@ Where you sit relative to competitors. Include:
 - What you deliberately do not do
 - The one thing only you can say credibly
 
-### 6. README (instructions for Claude)
-A short file telling Claude exactly how to use the other files. Example:
+### 6. README (instructions for the AI)
+A short file telling the AI exactly how to use the other files. Example:
 
 ```
 This folder is my foundation layer. When you write, suggest strategies,
@@ -84,7 +84,7 @@ create content, analyze my audience, or give feedback on my work:
    flag it and ask if you should update the relevant file.
 ```
 
-## How to point Claude to it
+## How to point your AI assistant to it
 
 Once you have the folder, say this at the start of each project or session:
 
@@ -94,8 +94,9 @@ nieco pises, navrhuj strategie, tvoris content alebo sa rozpravame o mojich
 zakaznikoch - vzdy si tento priecinok precitaj najprv.
 ```
 
-Or set it as a persistent instruction in Claude's Project Settings so you never
-have to say it again.
+Or set it as a persistent instruction so you never have to say it again - in a
+ChatGPT Project or Custom GPT, a Gemini Gem, a Claude Project, or whatever your tool
+calls its custom-instructions / saved-context feature.
 
 ## How to build it fast
 
@@ -104,18 +105,18 @@ Instead:
 1. Voice-record yourself for 15-20 minutes answering these questions out loud: Who
    are my best customers? What do they love about me? How do I sound when explaining
    my work to a friend? Who am I NOT for? How am I different from competitors?
-2. Drop the transcript into Claude. Say: "Structure this into the 6 foundation layer
+2. Drop the transcript into your AI assistant. Say: "Structure this into the 6 foundation layer
    files. Ask me what is missing."
-3. Claude asks clarifying questions. Answer them. Done in under an hour.
+3. The AI asks clarifying questions. Answer them. Done in under an hour.
 
 Alternatively: collect 20-30 recent customer reviews or messages, drop them in, and
-let Claude build the Delight Profile and ICP from real customer language.
+let the AI build the Delight Profile and ICP from real customer language.
 
 ## Keep it alive
 
 A foundation layer that is 6 months old stops working. Review it quarterly, or
 whenever something changes: new audience segment, new product, new competitors,
-changed tone. The best habit: when Claude learns something new in a session (a
+changed tone. The best habit: when the AI learns something new in a session (a
 customer insight, a new objection, a phrasing that resonated), say "add this to
 my foundation layer."
 
@@ -129,7 +130,7 @@ The difference is not the AI model. The difference is the context you give it.
 ## How to use this skill
 
 1. Build the 6 files (voice-record method is fastest for getting started).
-2. Point Claude to the folder at the start of each project.
+2. Point your AI assistant to the folder at the start of each project.
 3. Update it when you learn something new about your audience or voice.
 4. Add platform-specific Creator Style files as you expand to new channels.
 
