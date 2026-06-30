@@ -1,6 +1,6 @@
 # richworks-skills
 
-[🇬🇧 English](README.md) | **🇸🇰 Slovenčina**
+[🇬🇧 English](README.md) | [🇸🇰 **Slovenčina**](README.sk.md)
 
 Knižnica 18 marketingových zručností vytvorených z reálnej praxe v **RichWorks** - marketingovej agentúre zameranej na výsledky, sociálne médiá, obsahovú stratégiu a rast poháňaný umelou inteligenciou.
 
