@@ -1,0 +1,91 @@
+# >>> projectx-sync managed block >>>
+# Edit freely above or below this block. The sync only rewrites between markers.
+
+# dependencies
+node_modules/
+.pnp/
+.pnp.*
+bower_components/
+vendor/
+__pycache__/
+*.py[cod]
+.venv*/
+venv*/
+ENV/
+.tox/
+*.so
+*.dylib
+
+# build output
+.next/
+.nuxt/
+.svelte-kit/
+dist/
+build/
+out/
+target/
+.turbo/
+.parcel-cache/
+.cache/
+*.tsbuildinfo
+
+# test + logs
+coverage/
+.nyc_output/
+test-results/
+playwright-report/
+blob-report/
+.playwright/
+*.trace.zip
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# os + editor
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+
+# secrets - never commit these
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+!.env.*.example
+*.pem
+*.p12
+*.pfx
+*.keystore
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
+credentials.json
+service-account*.json
+*-service-account.json
+.netrc
+
+# large binaries and data - keep git fast
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wav
+*.psd
+*.dmg
+*.iso
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+*.sqlite-wal
+*.db
+*.db.bak*
+*.bak.[0-9]*
+# <<< projectx-sync managed block <<<

@@ -1,8 +1,8 @@
-# richworks-skills
+# RICHWORKS.media Skills
 
 [🇬🇧 **English**](README.md) | [🇸🇰 Slovenčina](README.sk.md)
 
-A library of 18 marketing skills built from real practice at **RichWorks** - a results-driven
+A library of 18 marketing skills built from real practice at **RICHWORKS.media** - a results-driven
 marketing agency focused on social media, content strategy, and AI-powered growth.
 
 These are not generic tips scraped from the internet. They are the actual frameworks, workflows,
@@ -17,7 +17,7 @@ framework instead of generic advice.
 
 ## Who built this
 
-**Adam Hodoši** - Social Media Lead at RichWorks, AI and marketing specialist. Building brand
+**Adam Hodoši** - Social Media Lead at RICHWORKS.media, AI and marketing specialist. Building brand
 presence, content systems, and social media strategies for clients across various industries.
 These skills reflect what actually moves the needle: follower growth, content systems that scale,
 video that performs, copy that converts.

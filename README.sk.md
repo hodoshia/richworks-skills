@@ -1,8 +1,8 @@
-# richworks-skills
+# RICHWORKS.media Skills
 
 [🇬🇧 English](README.md) | [🇸🇰 **Slovenčina**](README.sk.md)
 
-Knižnica 18 marketingových zručností vytvorených z reálnej praxe v **RichWorks** - marketingovej agentúre zameranej na výsledky, sociálne médiá, obsahovú stratégiu a rast poháňaný umelou inteligenciou.
+Knižnica 18 marketingových zručností vytvorených z reálnej praxe v **RICHWORKS.media** - marketingovej agentúre zameranej na výsledky, sociálne médiá, obsahovú stratégiu a rast poháňaný umelou inteligenciou.
 
 Toto nie sú generické tipy stiahnuté z internetu. Sú to skutočné frameworky, pracovné postupy a playbooki používané s klientmi, zabalené ako jednoduché Markdown súbory, ktoré fungujú s **ľubovoľným AI asistentom** - Claude, ChatGPT, Gemini, Copilot, Cursor alebo akýmkoľvek nástrojom, ktorý vám umožňuje pridávať kontext alebo vlastné inštrukcie.
 
@@ -12,7 +12,7 @@ Každý súbor je samostatný. Načítajte ten, ktorý zodpovedá vašej úlohe,
 
 ## Kto to vytvoril
 
-**Adam Hodoši** - Social Media Lead v RichWorks, špecialista na AI a marketing. Buduje brand presence, obsahové systémy a stratégie sociálnych médií pre klientov z rôznych odvetví. Tieto zručnosti odrážajú to, čo skutočne prináša výsledky: rast sledovateľov, obsahové systémy, ktoré sa škálujú, video, ktoré funguje, a copy, ktoré konvertuje.
+**Adam Hodoši** - Social Media Lead v RICHWORKS.media, špecialista na AI a marketing. Buduje brand presence, obsahové systémy a stratégie sociálnych médií pre klientov z rôznych odvetví. Tieto zručnosti odrážajú to, čo skutočne prináša výsledky: rast sledovateľov, obsahové systémy, ktoré sa škálujú, video, ktoré funguje, a copy, ktoré konvertuje.
 
 ---
 
