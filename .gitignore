@@ -41,6 +41,9 @@ blob-report/
 npm-debug.log*
 yarn-error.log*
 
+# Claude Code worktrees (one per session, see ship.sh)
+.claude/worktrees/
+
 # os + editor
 .DS_Store
 Thumbs.db
